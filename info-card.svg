@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="244" viewBox="0 0 490 244" role="img" aria-label="Profile info card">
+<rect width="100%" height="100%" rx="12" fill="#0d1117" />
+<text x="24" y="32" fill="#58a6ff" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="24" font-weight="700">sikander1020</text>
+<text id="line-0" x="24" y="72" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="18" fill="#c9d1d9" opacity="0"><tspan fill="#8b949e">Now:</tspan> Building an AI Cybersecurity Assistant<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.25s" fill="freeze" /></text>
+<text id="line-1" x="24" y="100" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="18" fill="#c9d1d9" opacity="0"><tspan fill="#8b949e">Prev:</tspan> Multiple AI/ML &amp; Full-Stack Projects<animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.25s" fill="freeze" /></text>
+<text id="line-2" x="24" y="128" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="18" fill="#c9d1d9" opacity="0"><tspan fill="#8b949e">Role:</tspan> Software Engineer<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.25s" fill="freeze" /></text>
+<text id="line-3" x="24" y="156" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="18" fill="#c9d1d9" opacity="0"><tspan fill="#8b949e">Stack:</tspan> Python · JavaScript · React · Node.js · AI/ML<animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.25s" fill="freeze" /></text>
+<text id="line-4" x="24" y="184" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="18" fill="#c9d1d9" opacity="0"><tspan fill="#8b949e">Highlights:</tspan> AI Agent Developer · API Integration · Vibe Coding · Cybersecurity Tools<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.25s" fill="freeze" /></text>
+</svg>
