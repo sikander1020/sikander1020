@@ -16,10 +16,11 @@ def fetch():
     soup = BeautifulSoup(resp.text, "html.parser")
 
     days = []
-    for rect in soup.select("rect[data-date]"):
-        date = rect["data-date"]
-        level = int(rect.get("data-level", 0))
-        count_text = rect.get("title", "")
+    for td in soup.select("td.ContributionCalendar-day[data-date]"):
+        date = td["data-date"]
+        level = int(td.get("data-level", 0))
+        tooltip = td.find_next_sibling("tool-tip")
+        count_text = tooltip.get_text() if tooltip else ""
         match = re.search(r"(\d+) contributions?", count_text)
         count = int(match.group(1)) if match else 0
         days.append({"date": date, "level": level, "count": count})
