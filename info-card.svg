@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 244" width="490" height="244">
+<rect width="490" height="244" rx="8" fill="#0d1117"/>
+<text x="24" y="48" font-family="monospace" font-size="16px" fill="#58a6ff" font-weight="bold">sikander1020@github</text>
+<line x1="24" y1="58" x2="466" y2="58" stroke="#8b949e" opacity="0.3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0ms" fill="freeze"/><text x="24" y="82" font-family="monospace" font-size="14px"><tspan fill="#8b949e">       Now: </tspan><tspan fill="#c9d1d9">Building an AI Cybersecurity Assistant</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="200ms" fill="freeze"/><text x="24" y="110" font-family="monospace" font-size="14px"><tspan fill="#8b949e">      Prev: </tspan><tspan fill="#c9d1d9">Multiple AI/ML & Full-Stack Projects</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="400ms" fill="freeze"/><text x="24" y="138" font-family="monospace" font-size="14px"><tspan fill="#8b949e">      Role: </tspan><tspan fill="#c9d1d9">Software Engineer</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="600ms" fill="freeze"/><text x="24" y="166" font-family="monospace" font-size="14px"><tspan fill="#8b949e">     Stack: </tspan><tspan fill="#c9d1d9">Python · JavaScript · React · Node.js · AI/ML</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="800ms" fill="freeze"/><text x="24" y="194" font-family="monospace" font-size="14px"><tspan fill="#8b949e">Highlights: </tspan><tspan fill="#c9d1d9">AI Agent Developer · API Integration · Vibe Coding · Cybersecurity Tools</tspan></text></g>
+</svg>
