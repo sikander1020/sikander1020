@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a neofetch-style info card SVG."""
+"""Generate a neofetch-style info card SVG with CSS animations."""
 import os
 from pathlib import Path
 
@@ -40,14 +40,13 @@ def make_card():
                f'{USERNAME}@github</text>')
     svg.append(f'<line x1="{PADDING_X}" y1="{PADDING_Y + 26}" '
                f'x2="{WIDTH - PADDING_X}" y2="{PADDING_Y + 26}" stroke="{COLORS["label"]}" opacity="0.3"/>')
+    svg.append(f'<style>@keyframes fadeIn {{ from {{ opacity: 0; }} to {{ opacity: 1; }} }}</style>')
 
     for i, (label, value) in enumerate(entries):
         y = PADDING_Y + 50 + i * LINE_HEIGHT
         delay = i * 200 if not static else 0
         opacity = "0" if not static else "1"
-        svg.append(f'<g opacity="{opacity}">'
-                   f'<animate attributeName="opacity" from="0" to="1" dur="0.3s" '
-                   f'begin="{delay}ms" fill="freeze"/>'
+        svg.append(f'<g opacity="{opacity}" style="animation: fadeIn 0.3s ease-out {delay}ms forwards;">'
                    f'<text x="{PADDING_X}" y="{y}" font-family="monospace" font-size="14px">'
                    f'<tspan fill="{COLORS["label"]}">{label:>10}: </tspan>'
                    f'<tspan fill="{COLORS["value"]}">{value}</tspan>'
