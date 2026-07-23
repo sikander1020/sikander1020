@@ -372,7 +372,7 @@
 <rect x="907" y="132" width="14" height="14" rx="3" fill="#26a641" opacity="0" style="animation: reveal 0.3s ease-out 456ms forwards"/>
 <rect x="924" y="30" width="14" height="14" rx="3" fill="#0e4429" opacity="0" style="animation: reveal 0.3s ease-out 416ms forwards"/>
 <rect x="924" y="47" width="14" height="14" rx="3" fill="#0e4429" opacity="0" style="animation: reveal 0.3s ease-out 424ms forwards"/>
-<rect x="924" y="64" width="14" height="14" rx="3" fill="#161b22" opacity="0" style="animation: reveal 0.3s ease-out 432ms forwards"/>
+<rect x="924" y="64" width="14" height="14" rx="3" fill="#0e4429" opacity="0" style="animation: reveal 0.3s ease-out 432ms forwards"/>
 <rect x="924" y="81" width="14" height="14" rx="3" fill="#161b22" opacity="0" style="animation: reveal 0.3s ease-out 440ms forwards"/>
 <rect x="924" y="98" width="14" height="14" rx="3" fill="#161b22" opacity="0" style="animation: reveal 0.3s ease-out 448ms forwards"/>
 <rect x="924" y="115" width="14" height="14" rx="3" fill="#161b22" opacity="0" style="animation: reveal 0.3s ease-out 456ms forwards"/>
@@ -385,5 +385,5 @@
 <rect x="143" y="159" width="14" height="14" rx="3" fill="#39d353"/>
 <rect x="160" y="159" width="14" height="14" rx="3" fill="#69f0a0"/>
 <text x="182" y="169" font-family="monospace" font-size="10px" fill="#8b949e">More</text>
-<text x="40" y="204" font-family="monospace" font-size="11px" fill="#c9d1d9">299 contributions in the last year · 0 day streak · Best: 2026-05-11</text>
+<text x="40" y="204" font-family="monospace" font-size="11px" fill="#c9d1d9">300 contributions in the last year · 0 day streak · Best: 2026-05-11</text>
 </svg>
