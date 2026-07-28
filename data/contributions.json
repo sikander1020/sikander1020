@@ -529,7 +529,7 @@
     {
       "date": "2026-07-27",
       "level": 1,
-      "count": 1
+      "count": 4
     },
     {
       "date": "2025-07-29",
@@ -790,6 +790,11 @@
       "date": "2026-07-21",
       "level": 1,
       "count": 1
+    },
+    {
+      "date": "2026-07-28",
+      "level": 0,
+      "count": 0
     },
     {
       "date": "2025-07-30",
@@ -1833,8 +1838,8 @@
     }
   ],
   "stats": {
-    "total": 305,
-    "current_streak": 9,
+    "total": 308,
+    "current_streak": 0,
     "longest_streak": 9,
     "best_day": {
       "date": "2026-05-11",
@@ -1842,5 +1847,5 @@
       "count": 36
     }
   },
-  "fetched_at": "2026-07-27T10:10:28.327102"
+  "fetched_at": "2026-07-28T09:06:19.851452"
 }
