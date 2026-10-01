@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO — video intro + name -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Sikandar Jadoon — Full-Stack Developer" width="100%"/>
+<img src="./hero.svg?v=2" alt="Hi, I'm Sikandar Jadoon — Full-Stack Developer" width="100%"/>
 
 <br/><br/>
 
@@ -46,7 +46,7 @@
 <br/><br/>
 
 <!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/sikander1020"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 <a href="mailto:jadoonsikander7@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
