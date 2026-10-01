@@ -18,10 +18,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -r scripts/requirements.txt
-      - run: python scripts/fetch_contributions.py
-      - run: python scripts/render_heatmap_svg.py
+      - run: pip install -r original-profile/scripts/requirements.txt
+      - run: python original-profile/scripts/fetch_contributions.py
+      - run: python original-profile/scripts/render_heatmap_svg.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          file_pattern: "original-profile/data/contributions.json original-profile/contrib-heatmap.svg"
