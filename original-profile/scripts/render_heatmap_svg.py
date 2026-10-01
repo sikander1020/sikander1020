@@ -14,7 +14,8 @@ LEGEND_HEIGHT = 30
 STATS_HEIGHT = 25
 
 def render():
-    data = json.loads(Path("data/contributions.json").read_text())
+    base = Path(__file__).resolve().parent.parent
+    data = json.loads((base / "data" / "contributions.json").read_text())
     days = {d["date"]: d for d in data["days"]}
     stats = data["stats"]
 
@@ -76,7 +77,8 @@ def render():
                f'font-size="11px" fill="#c9d1d9">{stats_text}</text>')
 
     svg.append("</svg>")
-    Path("contrib-heatmap.svg").write_text("\n".join(svg))
+    out = Path(__file__).resolve().parent.parent / "contrib-heatmap.svg"
+    out.write_text("\n".join(svg))
     print("Wrote contrib-heatmap.svg")
 
 if __name__ == "__main__":

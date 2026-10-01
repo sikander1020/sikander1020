@@ -50,7 +50,9 @@ def fetch():
         },
         "fetched_at": datetime.utcnow().isoformat(),
     }
-    Path("data/contributions.json").write_text(json.dumps(data, indent=2))
+    out = Path(__file__).resolve().parent.parent / "data" / "contributions.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(data, indent=2))
     print(f"Fetched {len(days)} days, {total} total contributions")
 
 if __name__ == "__main__":
