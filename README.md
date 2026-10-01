@@ -1,22 +1,37 @@
 <div align="center">
 
 <!-- 🎬 HERO — video intro + name -->
-<img src="./hero.svg?v=4" alt="Hi, I'm Sikandar Jadoon — Full-Stack Developer" width="100%"/>
+<img src="./hero.svg?v=6" alt="Hi, I'm Sikandar Jadoon — Full-Stack Developer" width="100%"/>
 
 <br/><br/>
 
-<!-- 👨‍💻 LEFT: what I build   •   🏗️ RIGHT: life outside code -->
-<img src="./about-life.svg?v=4" alt="What I build, and life beyond the code" width="100%"/>
+<!-- 👤 ABOUT -->
+<img src="./about.svg?v=1" alt="About Sikandar Jadoon" width="100%"/>
 
 <br/><br/>
 
-<!-- ⚛️ TECH STACK -->
-<img src="./stack.svg?v=4" alt="Tech stack" width="100%"/>
+<!-- 🛠️ TECH STACK -->
+<img src="./skills.svg?v=1" alt="Tech stack" width="100%"/>
 
 <br/><br/>
 
-<!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./id-dashboard.svg?v=4" alt="Developer ID and dashboard" width="100%"/>
+<!-- 🚀 PROJECTS -->
+<img src="./projects.svg?v=1" alt="Projects" width="100%"/>
+
+<br/><br/>
+
+<!-- 📈 EXPERIENCE -->
+<img src="./experience.svg?v=1" alt="Experience" width="100%"/>
+
+<br/><br/>
+
+<!-- 🤖 AI AUTOMATION -->
+<img src="./ai-automation.svg?v=1" alt="AI Automation" width="100%"/>
+
+<br/><br/>
+
+<!-- 🌐 OPEN SOURCE -->
+<img src="./github-opensource.svg?v=1" alt="Open Source" width="100%"/>
 
 <br/><br/>
 
@@ -45,8 +60,15 @@
 
 <br/><br/>
 
-<!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=4" alt="Let's connect" width="100%"/>
+<!-- 💌 CONTACT -->
+<img src="./contact.svg?v=1" alt="Let's connect" width="100%"/>
+
+<br/><br/>
+
+<!-- 🦶 FOOTER -->
+<img src="./footer.svg?v=1" alt="Footer" width="100%"/>
+
+<br/><br/>
 
 <a href="https://github.com/sikander1020"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 <a href="mailto:jadoonsikander7@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
