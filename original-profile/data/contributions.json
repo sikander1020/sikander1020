@@ -2,11 +2,6 @@
   "username": "sikander1020",
   "days": [
     {
-      "date": "2025-09-28",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-10-05",
       "level": 0,
       "count": 0
@@ -267,7 +262,7 @@
       "count": 1
     },
     {
-      "date": "2025-09-29",
+      "date": "2026-10-04",
       "level": 0,
       "count": 0
     },
@@ -532,11 +527,6 @@
       "count": 1
     },
     {
-      "date": "2025-09-30",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-10-07",
       "level": 0,
       "count": 0
@@ -795,11 +785,6 @@
       "date": "2026-09-29",
       "level": 1,
       "count": 1
-    },
-    {
-      "date": "2025-10-01",
-      "level": 0,
-      "count": 0
     },
     {
       "date": "2025-10-08",
@@ -1062,11 +1047,6 @@
       "count": 1
     },
     {
-      "date": "2025-10-02",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-10-09",
       "level": 0,
       "count": 0
@@ -1325,11 +1305,6 @@
       "date": "2026-10-01",
       "level": 1,
       "count": 4
-    },
-    {
-      "date": "2025-10-03",
-      "level": 0,
-      "count": 0
     },
     {
       "date": "2025-10-10",
@@ -1592,11 +1567,6 @@
       "count": 10
     },
     {
-      "date": "2025-10-04",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-10-11",
       "level": 0,
       "count": 0
@@ -1853,19 +1823,19 @@
     },
     {
       "date": "2026-10-03",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     }
   ],
   "stats": {
-    "total": 437,
+    "total": 438,
     "current_streak": 0,
-    "longest_streak": 76,
+    "longest_streak": 77,
     "best_day": {
       "date": "2026-05-11",
       "level": 4,
       "count": 36
     }
   },
-  "fetched_at": "2026-10-03T11:42:32.882110"
+  "fetched_at": "2026-10-04T12:25:12.179867"
 }
